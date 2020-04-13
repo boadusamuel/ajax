@@ -1,0 +1,74 @@
+{
+  "contacts" : {
+    "-M3qvgzq9Cb_p_HcMq-n" : {
+      "address" : "1 Liman Street, East Legon",
+      "age" : "1000",
+      "fristname" : "Solomon",
+      "lastname" : "Appiah",
+      "phonenumber" : "0501482946"
+    },
+    "-M3qyopNnIPB0o8VEmfd" : {
+      "address" : "Kwabenya",
+      "age" : "50",
+      "fristname" : "Rashid",
+      "lastname" : "Saeed",
+      "phonenumber" : "0272571035"
+    },
+    "-M3r-YrhYqwqaT5_XZMu" : {
+      "address" : "GE 8491 56e",
+      "age" : "30",
+      "fristname" : "Kwame",
+      "lastname" : "Martino",
+      "phonenumber" : "0240841540"
+    },
+    "-M3r0DpAD8nZ3odn-OkM" : {
+      "address" : "st1 mampong krobo mampong Tema",
+      "age" : "23",
+      "fristname" : "Tyla",
+      "lastname" : "Raven",
+      "phonenumber" : "0545257939"
+    },
+    "-M3ugfoU9Y_mJalDJ06r" : {
+      "address" : "TROPO FARMS Box 44,  AKUSE",
+      "age" : "36",
+      "fristname" : "ELIKPLIM",
+      "lastname" : "DOMEY",
+      "phonenumber" : "0246954633"
+    },
+    "-M3ukcP5Ty0tTSiRqwQa" : {
+      "address" : "P.o.box 44 Akuse",
+      "age" : "31",
+      "fristname" : "Tetteh",
+      "lastname" : "Richard Maskal",
+      "phonenumber" : "0243636650"
+    },
+    "-M3uknVFsQUzHBsTbb9Q" : {
+      "address" : "Asutsuare",
+      "age" : "12",
+      "fristname" : "Emma",
+      "lastname" : "Kojo",
+      "phonenumber" : "0248204237"
+    },
+    "-M3ulFv2JmTErwx-WYik" : {
+      "address" : "P.o.box 44 Akuse,",
+      "age" : "31",
+      "fristname" : "Richard",
+      "lastname" : "Tetteh Maskal",
+      "phonenumber" : "0243636650"
+    },
+    "-M4GIJc7TmieP9zLkDBA" : {
+      "address" : "Box 407, Accra ",
+      "age" : "30",
+      "fristname" : "Younus ",
+      "lastname" : "Sulemana",
+      "phonenumber" : "0249393900"
+    },
+    "-M4GO6m0NugzoxDO0cVP" : {
+      "address" : "Ablekuma opposite obolo spot",
+      "age" : "27",
+      "fristname" : "Agyapong ",
+      "lastname" : "Sandra boadi",
+      "phonenumber" : "0241821941"
+    }
+  }
+}
